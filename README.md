@@ -8,7 +8,7 @@
 <a href="https://twitter.com/estlosan1">
   <img align="left" alt="Estlosan's | Twitter" width="22px" src="https://github.com/estlosan/estlosan/blob/main/images/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/esteban-l%C3%B3pez-s%C3%A1nchez-a1b166152/">
+<a href="https://www.linkedin.com/in/esteban-lopez-sanchez/">
   <img align="left" alt="Estlosan's LinkedIN" width="22px" src="https://github.com/estlosan/estlosan/blob/main/images/linkedin.svg" />
 </a>
 
